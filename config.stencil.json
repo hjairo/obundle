@@ -1,0 +1,12 @@
+{
+  "customLayouts": {
+    "brand": {},
+    "category": {
+      "special-items.html": "/special-items/"
+    },
+    "page": {},
+    "product": {}
+  },
+  "normalStoreUrl": "https://special-item2.mybigcommerce.com",
+  "port": 3000
+}
